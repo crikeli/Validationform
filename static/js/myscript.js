@@ -1,1 +1,0 @@
-alert('please fill in the info')
